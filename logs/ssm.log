@@ -1,0 +1,3 @@
+[INFO][main][2020-02-19 21:46:43][com.alibaba.druid.pool.DruidDataSource] - {dataSource-1} inited
+#sql[INFO][main][2020-02-19 21:46:45][com.alibaba.druid.pool.DruidDataSource] - {dataSource-2} inited
+#sql

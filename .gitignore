@@ -1,2 +1,11 @@
 # Project exclude paths
 /target/
+/.classpath
+/.project
+/.settings/
+/*/logs/
+.idea/misc.xml
+.idea/workspace.xml
+/.idea/*
+*.iml
+.idea/*
